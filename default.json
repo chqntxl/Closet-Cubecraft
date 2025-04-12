@@ -1,0 +1,1182 @@
+{
+    "Client": "Primordial",
+    "Version": "1.0.0",
+    "Friends": [],
+    "Modules": {
+        "KillAura": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Mode",
+                    "EnumValue": 0
+                },
+                {
+                    "Name": "Infinite Delay",
+                    "FloatValue": 400.0
+                },
+                {
+                    "Name": "Step Distance",
+                    "FloatValue": 10.0
+                },
+                {
+                    "Name": "Only Same Y",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Y Offset",
+                    "FloatValue": 3.0
+                },
+                {
+                    "Name": "Only On Ground",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Follow",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Limit to range",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Draw Path",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Draw Ghost",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Target",
+                    "EnumValue": 2
+                },
+                {
+                    "Name": "Switch Delay",
+                    "FloatValue": 100.0
+                },
+                {
+                    "Name": "Priority",
+                    "EnumValue": 0
+                },
+                {
+                    "Name": "Rotation",
+                    "EnumValue": 0
+                },
+                {
+                    "Name": "Swap",
+                    "EnumValue": 0
+                },
+                {
+                    "Name": "Range",
+                    "FloatValue": 2.9600000381469727
+                },
+                {
+                    "Name": "APS",
+                    "FloatValue": 18.5
+                },
+                {
+                    "Name": "Fake Block",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Disable On Leave",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 70,
+                    "Hold": false
+                }
+            ]
+        },
+        "Criticals": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Mode",
+                    "EnumValue": 0
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "AutoClicker": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Click Mode",
+                    "EnumValue": 0
+                },
+                {
+                    "Name": "CPS Min",
+                    "FloatValue": 10.0
+                },
+                {
+                    "Name": "CPS Max",
+                    "FloatValue": 20.0
+                },
+                {
+                    "Name": "Hold",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Weapons Only",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Allow Block Breaking",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "Reach": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Attack Reach",
+                    "FloatValue": 3.0
+                },
+                {
+                    "Name": "Block Reach",
+                    "FloatValue": 5.699999809265137
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "Fly": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Horizontal Speed",
+                    "FloatValue": 1.0
+                },
+                {
+                    "Name": "Up Speed",
+                    "FloatValue": 1.0
+                },
+                {
+                    "Name": "Down Speed",
+                    "FloatValue": 1.0
+                },
+                {
+                    "Name": "Glide",
+                    "FloatValue": 0.0
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "Velocity": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Horizontal",
+                    "FloatValue": 0.0
+                },
+                {
+                    "Name": "Vertical",
+                    "FloatValue": 0.9800000190734863
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 89,
+                    "Hold": false
+                }
+            ]
+        },
+        "NoSlow": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Item Use",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Webs",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Sneaking",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Jump Delay",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "AntiImmobile": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "AutoSprint": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "Speed": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Speed",
+                    "FloatValue": 0.4000000059604645
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "InventoryMove": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "Phase": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "FastStop": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "Step": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Height",
+                    "FloatValue": 2.0
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "Spider": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Speed",
+                    "FloatValue": 1.0
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "AutoSneak": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "ReverseStep": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "Jetpack": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Vertical Speed",
+                    "FloatValue": 1.0
+                },
+                {
+                    "Name": "Horizontal Speed",
+                    "FloatValue": 1.0
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "NoClip": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Horizontal Speed",
+                    "FloatValue": 1.0
+                },
+                {
+                    "Name": "Up Speed",
+                    "FloatValue": 1.0
+                },
+                {
+                    "Name": "Down Speed",
+                    "FloatValue": 1.0
+                },
+                {
+                    "Name": "Glide",
+                    "FloatValue": 0.0
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "BlockClip": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Amount",
+                    "FloatValue": 0.6000000238418579
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "ChestStealer": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Min Delay",
+                    "FloatValue": 50.0
+                },
+                {
+                    "Name": "Max Delay",
+                    "FloatValue": 50.0
+                },
+                {
+                    "Name": "Close Automatically",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "AutoArmor": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Type",
+                    "EnumValue": 0
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "AutoTool": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "Derp": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Mode",
+                    "EnumValue": 0
+                },
+                {
+                    "Name": "Speed",
+                    "FloatValue": 0.800000011920929
+                },
+                {
+                    "Name": "Head Yaw Desync",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Head Yaw Flip",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Flip Tick",
+                    "FloatValue": 20.0
+                },
+                {
+                    "Name": "Pause When Mining",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Item Drop Flick Rot",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "NoFall": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Mode",
+                    "EnumValue": 1
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "NoRotate": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "FastEat": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Speed",
+                    "FloatValue": 1.0
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "InventoryTweaks": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Hack Offhand Slot",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Hack Armor Slots",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Hack Shulker Boxes",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "NoSwim": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "Freecam": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Horizontal Speed",
+                    "FloatValue": 1.0
+                },
+                {
+                    "Name": "Vertical Speed",
+                    "FloatValue": 1.0
+                },
+                {
+                    "Name": "Send Rotations",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "MidClick": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Friend Players",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Use Ender Pearls",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "ToggleSounds": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Sound",
+                    "EnumValue": 3
+                },
+                {
+                    "Name": "Volume",
+                    "FloatValue": 1.0
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "AntiBot": {
+            "Enabled": true,
+            "Settings": [
+                {
+                    "Name": "Hitbox Check",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Name Check",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Player List Check",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "NoPacket": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Move Only",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "Disabler": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Mode",
+                    "EnumValue": 0
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "Timer": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Speed",
+                    "FloatValue": 20.0
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "JoinLogger": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "Chat+": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Suffix Type",
+                    "EnumValue": 1
+                },
+                {
+                    "Name": "Append Version",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "ClickGUI": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Keybind",
+                    "Key": 79,
+                    "Hold": false
+                }
+            ]
+        },
+        "ESP": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Show Damage",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Draw Self",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "Animations": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Fake Block",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Swing Time",
+                    "FloatValue": 6.0
+                },
+                {
+                    "Name": "No Switch Animation",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Flux Swing",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Custom Swing Angle",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Only on Block",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Swing Angle",
+                    "FloatValue": -31.0
+                },
+                {
+                    "Name": "Small Items",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "ViewClip": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "FullBright": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "ViewModel": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "X",
+                    "FloatValue": 0.0
+                },
+                {
+                    "Name": "Y",
+                    "FloatValue": 0.0
+                },
+                {
+                    "Name": "Z",
+                    "FloatValue": 0.0
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "Tracers": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Color",
+                    "ColorValue": [
+                        0.44705885648727417,
+                        1.0,
+                        0.0,
+                        0.40000003576278687
+                    ]
+                },
+                {
+                    "Name": "Draw Self",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "NoRender": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Block Overlays",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Fire Overlay",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "NameTags": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Display Armor",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Display Durability",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Display Enchants",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Display Paper Doll",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Scale",
+                    "FloatValue": 1.0
+                },
+                {
+                    "Name": "Opacity",
+                    "FloatValue": 0.20000000298023224
+                },
+                {
+                    "Name": "Draw Self",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "GlintColor": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Custom Color",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Color",
+                    "ColorValue": [
+                        0.0,
+                        0.7176470756530762,
+                        0.7411764860153198,
+                        1.0
+                    ]
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "StorageESP": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Mode",
+                    "EnumValue": 2
+                },
+                {
+                    "Name": "Chests",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Chest Color",
+                    "ColorValue": [
+                        1.0,
+                        0.8666667342185974,
+                        0.0,
+                        0.4235294461250305
+                    ]
+                },
+                {
+                    "Name": "Trapped Chests",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Trapped Chest Color",
+                    "ColorValue": [
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.27450981736183167
+                    ]
+                },
+                {
+                    "Name": "Barrels",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Barrel Color",
+                    "ColorValue": [
+                        1.0,
+                        0.4705882668495178,
+                        0.9137255549430847,
+                        0.27450981736183167
+                    ]
+                },
+                {
+                    "Name": "Hoppers",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Hopper Color",
+                    "ColorValue": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        0.27450981736183167
+                    ]
+                },
+                {
+                    "Name": "Dispensers",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Dispenser Color",
+                    "ColorValue": [
+                        0.4392157196998596,
+                        0.41960787773132324,
+                        0.41960787773132324,
+                        1.0
+                    ]
+                },
+                {
+                    "Name": "Droppers",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Dropper Color",
+                    "ColorValue": [
+                        0.4392157196998596,
+                        0.41960787773132324,
+                        0.41960787773132324,
+                        1.0
+                    ]
+                },
+                {
+                    "Name": "Shulkers",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Shulker Color",
+                    "ColorValue": [
+                        0.0,
+                        0.32156863808631897,
+                        0.8313726186752319,
+                        0.27450981736183167
+                    ]
+                },
+                {
+                    "Name": "Ender Chest",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Ender Chest Color",
+                    "ColorValue": [
+                        0.5882353186607361,
+                        0.0,
+                        0.8313726186752319,
+                        0.27450981736183167
+                    ]
+                },
+                {
+                    "Name": "Furnaces",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Furnace Color",
+                    "ColorValue": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.27450981736183167
+                    ]
+                },
+                {
+                    "Name": "Blast Furnaces",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Blast Furnace Color",
+                    "ColorValue": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.27450981736183167
+                    ]
+                },
+                {
+                    "Name": "Smokers",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Smoker Color",
+                    "ColorValue": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.27450981736183167
+                    ]
+                },
+                {
+                    "Name": "Brewing Stands",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Brewing Stand Color",
+                    "ColorValue": [
+                        0.5215686559677124,
+                        0.5098039507865906,
+                        0.0,
+                        0.27450981736183167
+                    ]
+                },
+                {
+                    "Name": "Item Frames",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Item Frame Color",
+                    "ColorValue": [
+                        0.0,
+                        0.5215686559677124,
+                        0.2392157018184662,
+                        0.27450981736183167
+                    ]
+                },
+                {
+                    "Name": "Decorated Pots",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Decorated Pot Color",
+                    "ColorValue": [
+                        0.4705882668495178,
+                        0.33725491166114807,
+                        0.33725491166114807,
+                        0.27450981736183167
+                    ]
+                },
+                {
+                    "Name": "Crafters",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Crafter Color",
+                    "ColorValue": [
+                        1.0,
+                        0.5411764979362488,
+                        0.0,
+                        0.27450981736183167
+                    ]
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "Rotations": {
+            "Enabled": true,
+            "Settings": [
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "Watermark": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "Arraylist": {
+            "Enabled": false,
+            "Settings": [
+                {
+                    "Name": "Display Modes",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        },
+        "Notifications": {
+            "Enabled": true,
+            "Settings": [
+                {
+                    "Name": "Show on toggle",
+                    "BoolValue": true
+                },
+                {
+                    "Name": "Limit notifications",
+                    "BoolValue": false
+                },
+                {
+                    "Name": "Max notifications",
+                    "FloatValue": 6.0
+                },
+                {
+                    "Name": "Keybind",
+                    "Key": 0,
+                    "Hold": false
+                }
+            ]
+        }
+    }
+}
